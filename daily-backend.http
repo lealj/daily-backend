@@ -1,6 +1,6 @@
 @daily_backend_HostAddress = http://localhost:5123
 
-GET {{daily_backend_HostAddress}}/weatherforecast/
+GET {{daily_backend_HostAddress}}/articles/all
 Accept: application/json
 
 ###
